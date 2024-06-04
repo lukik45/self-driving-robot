@@ -34,6 +34,11 @@ Getting started with this project might not be straightforward for everyone, as 
 ## Example
 
 Visualization of a detected line
-![alt text](image.png)
+![alt text](image.jpeg)
 
 Video
+
+https://github.com/lukik45/self-driving-robot/assets/75123657/343f3f54-e841-490f-84a8-b644acba06ce
+
+
+
